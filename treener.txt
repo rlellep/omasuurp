@@ -1,0 +1,32 @@
+﻿Diego Simeone	1
+Lucien Favre	2
+Ivan Leko	3
+Leonardo Jardim	4
+Ernesto Valverde	5
+Mauricio Pochettino	6
+Luciano Spalletti	7
+Mark van Bommel	8
+Thomas Tuchel	9
+Jürgen Klopp	10
+Carlo Ancelotti	11
+Vladan Milojević	12
+Sérgio Conceição	13
+Huub Stevens	14
+Fatih Terim	15
+Yuri Semin	16
+Niko Kovač	17
+Erik ten Hag	18
+Bruno Lage	19
+Manolo Jiménez	20
+Pep Guardiola	21
+Bruno Génésio	22
+Paulo Fonseca	23
+Julian Nagelsmann	24
+Zinedine Zidane	25
+Claudio Ranieri	26
+Pavel Vrba	27
+Viktor Goncharenko	28
+Massimiliano Allegri	29
+Ole Gunnar Solskjær	30
+Marcelino	31
+Gerardo Seoane	32

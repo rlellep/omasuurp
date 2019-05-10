@@ -1,0 +1,6 @@
+﻿Heineken	10000000
+Mastercard	15000000
+Adidas	15000000
+PepsiCo	14750000
+Gazprom	20000000
+Sony	12900000

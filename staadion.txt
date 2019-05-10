@@ -1,0 +1,32 @@
+﻿Wanda Metropolitano	Atlético Madrid	67829
+Westfalenstadion	Borussia Dortmund	65829
+Jan Breydel Stadium	Club Brugge KV	29062
+Stade Louis II	AS Monaco FC	18523
+Camp Nou	FC Barcelona	99354
+Tottenham Hotspur Stadium	Tottenham Hotspur F.C.	62062
+San Siro	Inter Milan	80018
+Philips Stadion	PSV Eindhoven	35000
+Parc des Princes	Paris Saint-Germain F.C.	47929	
+Anfield	Liverpool F.C.	54074
+Stadio San Paolo	S.S.C. Napoli	55000
+Red Star Stadium	Red Star Belgrade	55538
+Estádio do Dragão	FC Porto	50083
+Arena AufSchalke	FC Schalke 04	54740
+Türk Telekom Stadium	Galatasaray S.K.	52223
+RZD Arena	FC Lokomotiv Moscow	27320
+Allianz Arena	FC Bayern Munich	70000
+Johan Cruyff Arena	AFC Ajax	54990
+Estádio da Luz	S.L. Benfica	64642
+Olympic Stadium	AEK Athens F.C.	69618
+City of Manchester Stadium	Manchester City F.C.	53000
+Parc Olympique Lyonnais	Olympique Lyonnais	59186
+Metalist Oblast Sports Complex	FC Shakhtar Donetsk	40003
+Rhein-Neckar-Arena	TSG 1899 Hoffenheim	25641
+Santiago Bernabéu Stadium	Real Madrid CF	81044
+Stadio Olimpico	A.S. Roma	70634
+Doosan Arena	FC Viktoria Plzeň	11700
+Luzhniki Stadium	PFC CSKA Moscow	81000
+Juventus Stadium	Juventus F.C.	41507
+Old Trafford	Manchester United F.C.	74994
+Mestalla Stadium	Valencia CF	49500
+Stade de Suisse	BSC Young Boys	32000

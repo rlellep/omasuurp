@@ -1,0 +1,32 @@
+﻿Atlético Madrid	1
+Borussia Dortmund	1
+Club Brugge KV	1
+AS Monaco FC	1
+FC Barcelona	2
+Tottenham Hotspur F.C.	2
+Inter Milan	2
+PSV Eindhoven	2
+Paris Saint-Germain F.C.	3
+Liverpool F.C.	3
+S.S.C. Napoli	3
+Red Star Belgrade	3
+FC Porto	4
+FC Schalke 04	4
+Galatasaray S.K.	4
+FC Lokomotiv Moscow	4
+FC Bayern Munich	5
+AFC Ajax	5
+S.L. Benfica	5
+AEK Athens F.C.	5
+Manchester City F.C.	6
+Olympique Lyonnais	6
+FC Shakhtar Donetsk	6
+TSG 1899 Hoffenheim	6
+Real Madrid CF	7
+A.S. Roma	7
+FC Viktoria Plzeň	7
+PFC CSKA Moscow	7
+Juventus F.C.	8
+Manchester United F.C.	8
+Valencia CF	8
+BSC Young Boys	8
