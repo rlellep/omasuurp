@@ -1,352 +1,352 @@
-﻿Atlético Madrid	Jan Oblak
-Atlético Madrid	Diego Godín
-Atlético Madrid	Filipe Luís
-Atlético Madrid	Juanfran
-Atlético Madrid	Koke
-Atlético Madrid	Antoine Griezmann
-Atlético Madrid	Saúl
-Atlético Madrid	Ángel Correa
-Atlético Madrid	Thomas Lemar
-Atlético Madrid	Diego Costa
-Atlético Madrid	José Giménez
-Borussia Dortmund	Roman Bürki
-Borussia Dortmund	Łukasz Piszczek
-Borussia Dortmund	Abdou Diallo
-Borussia Dortmund	Thomas Delaney
-Borussia Dortmund	Jadon Sancho
-Borussia Dortmund	Paco Alcácer
-Borussia Dortmund	Mario Götze
-Borussia Dortmund	Marco Reus
-Borussia Dortmund	Christian Pulisic
-Borussia Dortmund	Axel Witsel
-Borussia Dortmund	Julian Weigl
-Club Brugge KV	Karlo Letica
-Club Brugge KV	Luan Peres
-Club Brugge KV	Benoît Poulain
-Club Brugge KV	Sofyan Amrabat
-Club Brugge KV	Wesley
-Club Brugge KV	Jelle Vossen
-Club Brugge KV	Kaveh Rezaei
-Club Brugge KV	Krépin Diatta
-Club Brugge KV	Matej Mitrović
-Club Brugge KV	Siebe Schrijvers
-Club Brugge KV	Hans Vanaken
-AS Monaco FC	Danijel Subašić
-AS Monaco FC	Djibril Sidibé
-AS Monaco FC	Nacer Chadli
-AS Monaco FC	Cesc Fàbregas
-AS Monaco FC	Radamel Falcao
-AS Monaco FC	Stevan Jovetić
-AS Monaco FC	Carlos Vinícius
-AS Monaco FC	Willem Geubbels
-AS Monaco FC	Aleksandr Golovin
-AS Monaco FC	Pietro Pellegri
-AS Monaco FC	Kamil Glik
-FC Barcelona	Marc-André ter Stegen
-FC Barcelona	Nélson Semedo
-FC Barcelona	Gerard Piqué
-FC Barcelona	Ivan Rakitić
-FC Barcelona	Sergio Busquets
-FC Barcelona	Philippe Coutinho
-FC Barcelona	Luis Suárez
-FC Barcelona	Lionel Messi
-FC Barcelona	Jordi Alba
-FC Barcelona	Samuel Umtiti
-FC Barcelona	Arturo Vidal
-Tottenham Hotspur F.C.	Hugo Lloris
-Tottenham Hotspur F.C.	Kieran Trippier
-Tottenham Hotspur F.C.	Danny Rose
-Tottenham Hotspur F.C.	Toby Alderweireld
-Tottenham Hotspur F.C.	Jan Vertonghen
-Tottenham Hotspur F.C.	Son Heung-min
-Tottenham Hotspur F.C.	Erik Lamela
-Tottenham Hotspur F.C.	Dele Alli
-Tottenham Hotspur F.C.	Christian Eriksen
-Tottenham Hotspur F.C.	Lucas Moura
-Tottenham Hotspur F.C.	Harry Kane
-Inter Milan	Samir Handanović
-Inter Milan	Šime Vrsaljko
-Inter Milan	Stefan de Vrij
-Inter Milan	Mauro Icardi
-Inter Milan	Lautaro Martínez
-Inter Milan	Keita Baldé
-Inter Milan	Radja Nainggolan
-Inter Milan	João Mário
-Inter Milan	Ivan Perišić
-Inter Milan	Miranda
-Inter Milan	Marcelo Brozović
-PSV Eindhoven	Jeroen Zoet
-PSV Eindhoven	Aziz Behich
-PSV Eindhoven	Nick Viergever
-PSV Eindhoven	Daniel Schwaab
-PSV Eindhoven	Angeliño
-PSV Eindhoven	Luuk de Jong
-PSV Eindhoven	Maximiliano Romero
-PSV Eindhoven	Dante Rigo
-PSV Eindhoven	Pablo Rosario
-PSV Eindhoven	Michal Sadílek
-PSV Eindhoven	Érick Gutiérrez
-Paris Saint-Germain F.C.	Gianluigi Buffon
-Paris Saint-Germain F.C.	Thiago Silva
-Paris Saint-Germain F.C.	Presnel Kimpembe
-Paris Saint-Germain F.C.	Marquinhos
-Paris Saint-Germain F.C.	Marco Verratti
-Paris Saint-Germain F.C.	Kylian Mbappé
-Paris Saint-Germain F.C.	Edinson Cavani
-Paris Saint-Germain F.C.	Neymar
-Paris Saint-Germain F.C.	Ángel Di María
-Paris Saint-Germain F.C.	Thomas Meunier
-Paris Saint-Germain F.C.	Dani Alves
-Liverpool F.C.	Fabinho
-Liverpool F.C.	Virgil van Dijk
-Liverpool F.C.	Georginio Wijnaldum
-Liverpool F.C.	Roberto Firmino
-Liverpool F.C.	Sadio Mané
-Liverpool F.C.	Mohamed Salah
-Liverpool F.C.	Alisson
-Liverpool F.C.	Jordan Henderson
-Liverpool F.C.	Andrew Robertson
-Liverpool F.C.	Joël Matip
-Liverpool F.C.	James Milner
-S.S.C. Napoli	Piotr Zieliński
-S.S.C. Napoli	Nikola Maksimović
-S.S.C. Napoli	Dries Mertens
-S.S.C. Napoli	Simone Verdi
-S.S.C. Napoli	José Callejón
-S.S.C. Napoli	Raúl Albiol
-S.S.C. Napoli	Arkadiusz Milik
-S.S.C. Napoli	Lorenzo Insigne
-S.S.C. Napoli	Faouzi Ghoulam
-S.S.C. Napoli	Sebastiano Luperto
-S.S.C. Napoli	Adam Ounas
-Red Star Belgrade	Zoran Popović
-Red Star Belgrade	Milan Gajić
-Red Star Belgrade	Branko Jovičić
-Red Star Belgrade	Miloš Vulić
-Red Star Belgrade	Mirko Ivanić
-Red Star Belgrade	Milan Pavkov
-Red Star Belgrade	Srđan Babić
-Red Star Belgrade	Jonathan Cafú
-Red Star Belgrade	Dejan Joveljić
-Red Star Belgrade	Vujadin Savić
-Red Star Belgrade	Marko Gobeljić
-FC Porto	Iker Casillas
-FC Porto	Maxi Pereira
-FC Porto	Éder Militão
-FC Porto	Diogo Leite
-FC Porto	Bruno Costa
-FC Porto	Yacine Brahimi
-FC Porto	Óliver Torres
-FC Porto	Alex Telles
-FC Porto	Héctor Herrera
-FC Porto	André Pereira
-FC Porto	Pepe
-FC Schalke 04	Ralf Fährmann
-FC Schalke 04	Hamza Mendyl
-FC Schalke 04	Matija Nastasić
-FC Schalke 04	Nabil Bentaleb
-FC Schalke 04	Yevhen Konoplyanka
-FC Schalke 04	Daniel Caligiuri
-FC Schalke 04	Salif Sané
-FC Schalke 04	Suat Serdar
-FC Schalke 04	Mark Uth
-FC Schalke 04	Breel Embolo
-FC Schalke 04	Sascha Riether
-Galatasaray S.K.	Fernando Muslera
-Galatasaray S.K.	Mariano Filho
-Galatasaray S.K.	Ahmet Çalık
-Galatasaray S.K.	Selçuk İnan
-Galatasaray S.K.	Younès Belhanda
-Galatasaray S.K.	Sinan Gümüş
-Galatasaray S.K.	Martin Linnes
-Galatasaray S.K.	Ryan Donk
-Galatasaray S.K.	Henry Onyekuru
-Galatasaray S.K.	Konstantinos Mitroglou
-Galatasaray S.K.	Mbaye Diagne
-FC Lokomotiv Moscow	Guilherme
-FC Lokomotiv Moscow	Brian Idowu
-FC Lokomotiv Moscow	Manuel Fernandes
-FC Lokomotiv Moscow	Benedikt Höwedes
-FC Lokomotiv Moscow	Dmitri Barinov
-FC Lokomotiv Moscow	Grzegorz Krychowiak
-FC Lokomotiv Moscow	Jefferson Farfán
-FC Lokomotiv Moscow	Eder
-FC Lokomotiv Moscow	Fyodor Smolov
-FC Lokomotiv Moscow	Vedran Ćorluka
-FC Lokomotiv Moscow	Igor Denisov
-FC Bayern Munich	Manuel Neuer
-FC Bayern Munich	Niklas Süle
-FC Bayern Munich	Mats Hummels
-FC Bayern Munich	Thiago
-FC Bayern Munich	Franck Ribéry
-FC Bayern Munich	Javi Martínez
-FC Bayern Munich	Robert Lewandowski
-FC Bayern Munich	Arjen Robben
-FC Bayern Munich	James Rodríguez
-FC Bayern Munich	Jérôme Boateng
-FC Bayern Munich	David Alaba
-AFC Ajax	Rasmus Nissen Kristensen
-AFC Ajax	Joël Veltman
-AFC Ajax	Matthijs de Ligt
-AFC Ajax	Donny van de Beek
-AFC Ajax	David Neres
-AFC Ajax	Klaas-Jan Huntelaar
-AFC Ajax	Dušan Tadić
-AFC Ajax	Daley Blind
-AFC Ajax	Hakim Ziyech
-AFC Ajax	Kasper Dolberg
-AFC Ajax	Kostas Lamprou
-S.L. Benfica	Mile Svilar
-S.L. Benfica	Germán Conti
-S.L. Benfica	Álex Grimaldo
-S.L. Benfica	Ljubomir Fejsa
-S.L. Benfica	Sébastien Corchia
-S.L. Benfica	Jonas
-S.L. Benfica	Gabriel
-S.L. Benfica	Franco Cervi
-S.L. Benfica	Eduardo Salvio
-S.L. Benfica	Ferro
-S.L. Benfica	Jardel
-AEK Athens F.C.	Vasilis Barkas
-AEK Athens F.C.	Michalis Bakakis
-AEK Athens F.C.	Hélder Lopes
-AEK Athens F.C.	Vasilis Lampropoulos
-AEK Athens F.C.	Nenad Krstičić
-AEK Athens F.C.	André Simões
-AEK Athens F.C.	Marko Livaja
-AEK Athens F.C.	Giannis Gianniotas
-AEK Athens F.C.	Rodrigo Galo
-AEK Athens F.C.	Tasos Bakasetas
-AEK Athens F.C.	Petros Mantalos
-Manchester City F.C.	Claudio Bravo
-Manchester City F.C.	Kyle Walker
-Manchester City F.C.	Gabriel Jesus
-Manchester City F.C.	Vincent Kompany
-Manchester City F.C.	Raheem Sterling
-Manchester City F.C.	İlkay Gündoğan
-Manchester City F.C.	Sergio Agüero
-Manchester City F.C.	Aymeric Laporte
-Manchester City F.C.	Kevin De Bruyne
-Manchester City F.C.	Leroy Sané
-Manchester City F.C.	David Silva
-Olympique Lyonnais	Anthony Lopes
-Olympique Lyonnais	Mapou Yanga-Mbiwa
-Olympique Lyonnais	Rafael
-Olympique Lyonnais	Marcelo
-Olympique Lyonnais	Martin Terrier
-Olympique Lyonnais	Houssem Aouar
-Olympique Lyonnais	Moussa Dembélé
-Olympique Lyonnais	Memphis Depay
-Olympique Lyonnais	Léo Dubois
-Olympique Lyonnais	Tanguy Ndombele
-Olympique Lyonnais	Pape Cheikh Diop
-FC Shakhtar Donetsk	Oleksiy Shevchenko
-FC Shakhtar Donetsk	Bohdan Butko
-FC Shakhtar Donetsk	Serhiy Kryvtsov
-FC Shakhtar Donetsk	Davit Khocholava
-FC Shakhtar Donetsk	Taras Stepanenko
-FC Shakhtar Donetsk	Taison
-FC Shakhtar Donetsk	Olarenwaju Kayode
-FC Shakhtar Donetsk	Dentinho
-FC Shakhtar Donetsk	Marlos
-FC Shakhtar Donetsk	Júnior Moraes
-FC Shakhtar Donetsk	Ismaily
-TSG 1899 Hoffenheim	Oliver Baumann
-TSG 1899 Hoffenheim	Joshua Brenet
-TSG 1899 Hoffenheim	Ermin Bičakčić
-TSG 1899 Hoffenheim	Dennis Geiger
-TSG 1899 Hoffenheim	Lukas Rupp
-TSG 1899 Hoffenheim	Reiss Nelson
-TSG 1899 Hoffenheim	Florian Grillitsch
-TSG 1899 Hoffenheim	Andrej Kramarić
-TSG 1899 Hoffenheim	Robin Hack
-TSG 1899 Hoffenheim	Kevin Vogt
-TSG 1899 Hoffenheim	Benjamin Hübner
-Real Madrid CF	Thibaut Courtois
-Real Madrid CF	Marcelo
-Real Madrid CF	Sergio Ramos
-Real Madrid CF	Raphaël Varane
-Real Madrid CF	Nacho
-Real Madrid CF	Toni Kroos
-Real Madrid CF	Karim Benzema
-Real Madrid CF	Luka Modrić
-Real Madrid CF	Gareth Bale
-Real Madrid CF	Marco Asensio
-Real Madrid CF	Vinícius Júnior
-A.S. Roma	Robin Olsen
-A.S. Roma	Rick Karsdorp
-A.S. Roma	Daniele De Rossi
-A.S. Roma	Juan Jesus
-A.S. Roma	Lorenzo Pellegrini
-A.S. Roma	Diego Perotti
-A.S. Roma	Edin Džeko
-A.S. Roma	Javier Pastore
-A.S. Roma	Alessandro Florenzi
-A.S. Roma	Kostas Manolas
-A.S. Roma	Aleksandar Kolarov
-FC Viktoria Plzeň	Matúš Kozáčik
-FC Viktoria Plzeň	Lukáš Hejda
-FC Viktoria Plzeň	Roman Hubník
-FC Viktoria Plzeň	Joel Ngandu Kayamba
-FC Viktoria Plzeň	Roman Procházka
-FC Viktoria Plzeň	David Limberský
-FC Viktoria Plzeň	Tomáš Hořava
-FC Viktoria Plzeň	Jan Kopic
-FC Viktoria Plzeň	Milan Petržela
-FC Viktoria Plzeň	Michael Krmenčík
-FC Viktoria Plzeň	Tomáš Chorý
-PFC CSKA Moscow	Ilya Pomazun
-PFC CSKA Moscow	Mário Fernandes
-PFC CSKA Moscow	Nikita Chernov
-PFC CSKA Moscow	Viktor Vasin
-PFC CSKA Moscow	Nikola Vlašić
-PFC CSKA Moscow	Fyodor Chalov
-PFC CSKA Moscow	Alan Dzagoev
-PFC CSKA Moscow	Abel Hernández
-PFC CSKA Moscow	Igor Akinfeev
-PFC CSKA Moscow	Kirill Nababkin
-PFC CSKA Moscow	Dmitry Yefremov
-Juventus F.C.	Wojciech Szczęsny
-Juventus F.C.	Giorgio Chiellini
-Juventus F.C.	Miralem Pjanić
-Juventus F.C.	Cristiano Ronaldo
-Juventus F.C.	Douglas Costa
-Juventus F.C.	Paulo Dybala
-Juventus F.C.	Alex Sandro
-Juventus F.C.	Blaise Matuidi
-Juventus F.C.	Leonardo Bonucci
-Juventus F.C.	Juan Cuadrado
-Juventus F.C.	Mario Mandžukić
-Manchester United F.C.	David de Gea
-Manchester United F.C.	Paul Pogba
-Manchester United F.C.	Alexis Sánchez
-Manchester United F.C.	Romelu Lukaku
-Manchester United F.C.	Marcus Rashford
-Manchester United F.C.	Anthony Martial
-Manchester United F.C.	Jesse Lingard
-Manchester United F.C.	Ashley Young
-Manchester United F.C.	Luke Shaw
-Manchester United F.C.	Antonio Valencia
-Manchester United F.C.	Nemanja Matić
-Valencia CF	Jaume Domènech
-Valencia CF	Facundo Roncaglia
-Valencia CF	Gabriel
-Valencia CF	Geoffrey Kondogbia
-Valencia CF	Kevin Gameiro
-Valencia CF	Carlos Soler
-Valencia CF	Daniel Parejo
-Valencia CF	Denis Cheryshev
-Valencia CF	Rodrigo
-Valencia CF	Santi Mina
-Valencia CF	Ezequiel Garay
-BSC Young Boys	Marco Wölfli
-BSC Young Boys	Mohamed Ali Camara
-BSC Young Boys	Steve von Bergen
-BSC Young Boys	Miralem Sulejmani
-BSC Young Boys	Djibril Sow
-BSC Young Boys	Gianluca Gaudino
-BSC Young Boys	Moumi Ngamaleu
-BSC Young Boys	Christian Fassnacht
-BSC Young Boys	Roger Assalé
-BSC Young Boys	Loris Benito
-BSC Young Boys	Ulisses Garcia
+﻿1	Jan Oblak
+1	Diego Godín
+1	Filipe Luís
+1	Juanfran
+1	Koke
+1	Antoine Griezmann
+1	Saúl
+1	Ángel Correa
+1	Thomas Lemar
+1	Diego Costa
+1	José Giménez
+2	Roman Bürki
+2	Łukasz Piszczek
+2	Abdou Diallo
+2	Thomas Delaney
+2	Jadon Sancho
+2	Paco Alcácer
+2	Mario Götze
+2	Marco Reus
+2	Christian Pulisic
+2	Axel Witsel
+2	Julian Weigl
+3	Karlo Letica
+3	Luan Peres
+3	Benoît Poulain
+3	Sofyan Amrabat
+3	Wesley
+3	Jelle Vossen
+3	Kaveh Rezaei
+3	Krépin Diatta
+3	Matej Mitrović
+3	Siebe Schrijvers
+3	Hans Vanaken
+4	Danijel Subašić
+4	Djibril Sidibé
+4	Nacer Chadli
+4	Cesc Fàbregas
+4	Radamel Falcao
+4	Stevan Jovetić
+4	Carlos Vinícius
+4	Willem Geubbels
+4	Aleksandr Golovin
+4	Pietro Pellegri
+4	Kamil Glik
+5	Marc-André ter Stegen
+5	Nélson Semedo
+5	Gerard Piqué
+5	Ivan Rakitić
+5	Sergio Busquets
+5	Philippe Coutinho
+5	Luis Suárez
+5	Lionel Messi
+5	Jordi Alba
+5	Samuel Umtiti
+5	Arturo Vidal
+6	Hugo Lloris
+6	Kieran Trippier
+6	Danny Rose
+6	Toby Alderweireld
+6	Jan Vertonghen
+6	Son Heung-min
+6	Erik Lamela
+6	Dele Alli
+6	Christian Eriksen
+6	Lucas Moura
+6	Harry Kane
+7	Samir Handanović
+7	Šime Vrsaljko
+7	Stefan de Vrij
+7	Mauro Icardi
+7	Lautaro Martínez
+7	Keita Baldé
+7	Radja Nainggolan
+7	João Mário
+7	Ivan Perišić
+7	Miranda
+7	Marcelo Brozović
+8	Jeroen Zoet
+8	Aziz Behich
+8	Nick Viergever
+8	Daniel Schwaab
+8	Angeliño
+8	Luuk de Jong
+8	Maximiliano Romero
+8	Dante Rigo
+8	Pablo Rosario
+8	Michal Sadílek
+8	Érick Gutiérrez
+9	Gianluigi Buffon
+9	Thiago Silva
+9	Presnel Kimpembe
+9	Marquinhos
+9	Marco Verratti
+9	Kylian Mbappé
+9	Edinson Cavani
+9	Neymar
+9	Ángel Di María
+9	Thomas Meunier
+9	Dani Alves
+10	Fabinho
+10	Virgil van Dijk
+10	Georginio Wijnaldum
+10	Roberto Firmino
+10	Sadio Mané
+10	Mohamed Salah
+10	Alisson
+10	Jordan Henderson
+10	Andrew Robertson
+10	Joël Matip
+10	James Milner
+11	Piotr Zieliński
+11	Nikola Maksimović
+11	Dries Mertens
+11	Simone Verdi
+11	José Callejón
+11	Raúl Albiol
+11	Arkadiusz Milik
+11	Lorenzo Insigne
+11	Faouzi Ghoulam
+11	Sebastiano Luperto
+11	Adam Ounas
+12	Zoran Popović
+12	Milan Gajić
+12	Branko Jovičić
+12	Miloš Vulić
+12	Mirko Ivanić
+12	Milan Pavkov
+12	Srđan Babić
+12	Jonathan Cafú
+12	Dejan Joveljić
+12	Vujadin Savić
+12	Marko Gobeljić
+13	Iker Casillas
+13	Maxi Pereira
+13	Éder Militão
+13	Diogo Leite
+13	Bruno Costa
+13	Yacine Brahimi
+13	Óliver Torres
+13	Alex Telles
+13	Héctor Herrera
+13	André Pereira
+13	Pepe
+14	Ralf Fährmann
+14	Hamza Mendyl
+14	Matija Nastasić
+14	Nabil Bentaleb
+14	Yevhen Konoplyanka
+14	Daniel Caligiuri
+14	Salif Sané
+14	Suat Serdar
+14	Mark Uth
+14	Breel Embolo
+14	Sascha Riether
+15	Fernando Muslera
+15	Mariano Filho
+15	Ahmet Çalık
+15	Selçuk İnan
+15	Younès Belhanda
+15	Sinan Gümüş
+15	Martin Linnes
+15	Ryan Donk
+15	Henry Onyekuru
+15	Konstantinos Mitroglou
+15	Mbaye Diagne
+16	Guilherme
+16	Brian Idowu
+16	Manuel Fernandes
+16	Benedikt Höwedes
+16	Dmitri Barinov
+16	Grzegorz Krychowiak
+16	Jefferson Farfán
+16	Eder
+16	Fyodor Smolov
+16	Vedran Ćorluka
+16	Igor Denisov
+17	Manuel Neuer
+17	Niklas Süle
+17	Mats Hummels
+17	Thiago
+17	Franck Ribéry
+17	Javi Martínez
+17	Robert Lewandowski
+17	Arjen Robben
+17	James Rodríguez
+17	Jérôme Boateng
+17	David Alaba
+18	Rasmus Nissen Kristensen
+18	Joël Veltman
+18	Matthijs de Ligt
+18	Donny van de Beek
+18	David Neres
+18	Klaas-Jan Huntelaar
+18	Dušan Tadić
+18	Daley Blind
+18	Hakim Ziyech
+18	Kasper Dolberg
+18	Kostas Lamprou
+19	Mile Svilar
+19	Germán Conti
+19	Álex Grimaldo
+19	Ljubomir Fejsa
+19	Sébastien Corchia
+19	Jonas
+19	Gabriel
+19	Franco Cervi
+19	Eduardo Salvio
+19	Ferro
+19	Jardel
+20	Vasilis Barkas
+20	Michalis Bakakis
+20	Hélder Lopes
+20	Vasilis Lampropoulos
+20	Nenad Krstičić
+20	André Simões
+20	Marko Livaja
+20	Giannis Gianniotas
+20	Rodrigo Galo
+20	Tasos Bakasetas
+20	Petros Mantalos
+21	Claudio Bravo
+21	Kyle Walker
+21	Gabriel Jesus
+21	Vincent Kompany
+21	Raheem Sterling
+21	İlkay Gündoğan
+21	Sergio Agüero
+21	Aymeric Laporte
+21	Kevin De Bruyne
+21	Leroy Sané
+21	David Silva
+22	Anthony Lopes
+22	Mapou Yanga-Mbiwa
+22	Rafael
+22	Marcelo
+22	Martin Terrier
+22	Houssem Aouar
+22	Moussa Dembélé
+22	Memphis Depay
+22	Léo Dubois
+22	Tanguy Ndombele
+22	Pape Cheikh Diop
+23	Oleksiy Shevchenko
+23	Bohdan Butko
+23	Serhiy Kryvtsov
+23	Davit Khocholava
+23	Taras Stepanenko
+23	Taison
+23	Olarenwaju Kayode
+23	Dentinho
+23	Marlos
+23	Júnior Moraes
+23	Ismaily
+24	Oliver Baumann
+24	Joshua Brenet
+24	Ermin Bičakčić
+24	Dennis Geiger
+24	Lukas Rupp
+24	Reiss Nelson
+24	Florian Grillitsch
+24	Andrej Kramarić
+24	Robin Hack
+24	Kevin Vogt
+24	Benjamin Hübner
+25	Thibaut Courtois
+25	Marcelo
+25	Sergio Ramos
+25	Raphaël Varane
+25	Nacho
+25	Toni Kroos
+25	Karim Benzema
+25	Luka Modrić
+25	Gareth Bale
+25	Marco Asensio
+25	Vinícius Júnior
+26	Robin Olsen
+26	Rick Karsdorp
+26	Daniele De Rossi
+26	Juan Jesus
+26	Lorenzo Pellegrini
+26	Diego Perotti
+26	Edin Džeko
+26	Javier Pastore
+26	Alessandro Florenzi
+26	Kostas Manolas
+26	Aleksandar Kolarov
+27	Matúš Kozáčik
+27	Lukáš Hejda
+27	Roman Hubník
+27	Joel Ngandu Kayamba
+27	Roman Procházka
+27	David Limberský
+27	Tomáš Hořava
+27	Jan Kopic
+27	Milan Petržela
+27	Michael Krmenčík
+27	Tomáš Chorý
+28	Ilya Pomazun
+28	Mário Fernandes
+28	Nikita Chernov
+28	Viktor Vasin
+28	Nikola Vlašić
+28	Fyodor Chalov
+28	Alan Dzagoev
+28	Abel Hernández
+28	Igor Akinfeev
+28	Kirill Nababkin
+28	Dmitry Yefremov
+29	Wojciech Szczęsny
+29	Giorgio Chiellini
+29	Miralem Pjanić
+29	Cristiano Ronaldo
+29	Douglas Costa
+29	Paulo Dybala
+29	Alex Sandro
+29	Blaise Matuidi
+29	Leonardo Bonucci
+29	Juan Cuadrado
+29	Mario Mandžukić
+30	David de Gea
+30	Paul Pogba
+30	Alexis Sánchez
+30	Romelu Lukaku
+30	Marcus Rashford
+30	Anthony Martial
+30	Jesse Lingard
+30	Ashley Young
+30	Luke Shaw
+30	Antonio Valencia
+30	Nemanja Matić
+31	Jaume Domènech
+31	Facundo Roncaglia
+31	Gabriel
+31	Geoffrey Kondogbia
+31	Kevin Gameiro
+31	Carlos Soler
+31	Daniel Parejo
+31	Denis Cheryshev
+31	Rodrigo
+31	Santi Mina
+31	Ezequiel Garay
+32	Marco Wölfli
+32	Mohamed Ali Camara
+32	Steve von Bergen
+32	Miralem Sulejmani
+32	Djibril Sow
+32	Gianluca Gaudino
+32	Moumi Ngamaleu
+32	Christian Fassnacht
+32	Roger Assalé
+32	Loris Benito
+32	Ulisses Garcia
